@@ -1,0 +1,89 @@
+/**************TAG SELECTOR**************************/
+body{
+    background-color:gray;
+}
+
+h1{
+background-color: indianred;
+color:black;
+font-size: 50px;
+}
+h2{
+background-color: gray;
+
+color:blue;
+font-size: 50px;
+}
+h3{
+background-color:yellowgreen;
+
+color:red;
+font-size: 50px;
+}
+h4{
+background-color: indigo;
+
+color:orange;
+font-size:50px;
+}
+h5{
+background-color:green;
+
+color:springgreen;
+font-size:50px;
+}
+h6{
+background-color: hotpink;
+
+color:greenyellow;
+font-size: 50px;
+}
+/*********************CLASS SELECTOR************************/
+.Orange{
+background-color: red;
+}
+.Mango{
+background-color: gold;
+}
+.Apple{
+background-color: bisque;
+
+}
+.Banana{
+background-color: blue;
+}
+.Papaya{
+background-color: blueviolet;
+}
+p{
+color:yellow;
+}
+/**********************ID SELECTOR*************************/
+#heading{
+    color:blue ;
+}
+/**************PSEUDO CLASS**************************/
+img:hover{
+background-color:aqua;
+}
+h1:hover{
+    background-color: ghostwhite;
+}
+h2:hover{
+background-color: aliceblue;
+}
+h3:hover{
+    background-color: aliceblue ;
+}
+h4:hover{
+    background-color: aliceblue ;
+}
+h5:hover{
+    background-color: aliceblue ;
+}
+h6:hover{
+    background-color: aliceblue ;
+}
+p:hover{
+    background-color: cornflowerblue;
+}
